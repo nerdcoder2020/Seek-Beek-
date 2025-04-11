@@ -53,4 +53,3 @@ Feel free to contribute, but **if you break something, you own it now.**
 ---
 
 🎉 **Enjoy using Seek-Beek-! (Or just pretend you built it. We won’t snitch.)** 😎🔥  
-```  
