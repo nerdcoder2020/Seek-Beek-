@@ -1,0 +1,6 @@
+# Root-level node_modules
+node_modules/
+.env
+
+# Ignore all node_modules in the project
+**/node_modules/
